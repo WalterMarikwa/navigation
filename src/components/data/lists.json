@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "NFL Playoff Prediction",
+        "img": "img/nfl.jpg",
+        "skill": "Python 3, Jupyter Notebook, Pg Admin4, PostgreSQL, Tableu.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 2,
+        "name": "Credit Risk Analysis",
+        "img": "img/credit.jpg",
+        "skill": "Jupyter Notebook, Python 3, Imbalanced-Learn Library, SciKit-Learn Library.",
+        "btn": "https://github.com/WalterMarikwa/Credit_Risk_Analysis"
+    },
+    {
+        "id": 3,
+        "name": "Cryptocurrencies",
+        "img": "img/crypto.jpg",
+        "skill": "Jupyter Notebook, Pandas, Scatter Plot.",
+        "btn": "https://github.com/WalterMarikwa/Cryptocurrencies"
+    },
+    {
+        "id": 4,
+        "name": "Neural Network Charity Analysis",
+        "img": "img/paul.jpg",
+        "skill": "Python 3, Anaconda Navigator, Conda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/Neural_Network_Charity_Analysis"
+    },
+    {
+        "id": 5,
+        "name": "Bike Sharing App",
+        "img": "img/bike.jpg",
+        "skill": "Tableu, Jupyter Notebook, Pandas.",
+        "btn": "https://github.com/WalterMarikwa/bikesharing"
+    },
+    {
+        "id": 6,
+        "name": "Amazon Vine Analysis",
+        "img": "img/amazon.jpg",
+        "skill": "PG Admin4, PostgreSQL, AWS, Jupyter Notebook, Google Cooble.",
+        "btn": "https://github.com/WalterMarikwa/Amazon_Vine_Analysis"
+    }, 
+    {
+        "id": 7,
+        "name": "MechaCar Statistical Analysis",
+        "img": "img/tesla.jpg",
+        "skill": "R Programming, R Studio.",
+        "btn": "https://github.com/WalterMarikwa/MechaCar_Statistical_Analysis"
+    },
+    {
+        "id": 8,
+        "name": "Mapping Earthquakes",
+        "img": "img/earthquake.jpg",
+        "skill": "HTML5,CSS3,Javascript.",
+        "btn": "https://github.com/WalterMarikwa/Mapping_Earthquakes"
+    },
+    {
+        "id": 9,
+        "name": "Plotly Deployment",
+        "img": "img/plot.png",
+        "skill": "HTML5,CSS3,Javascript.",
+        "btn": "https://github.com/WalterMarikwa/NFL_Playoffs_Prediction"
+    },
+    {
+        "id": 10,
+        "name": "UFO's",
+        "img": "img/ufo.jpg",
+        "skill": "HTML5, CSS3, JavaScript, BootStrap4.",
+        "btn": "https://github.com/WalterMarikwa/UFOs"
+    },
+    {
+        "id": 11,
+        "name": "Mission To Mars",
+        "img": "img/mars.jpg",
+        "skill": "Python 3, Anaconda Navigator, Conda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/Mission-to-Mars"
+    },
+    {
+        "id": 12,
+        "name": "Movies ETL",
+        "img": "img/movies.jpg",
+        "skill": "Python 3, Anaconda, Conda, Jupyter Notebook, PostgreSQL, pgAdmin 4.",
+        "btn": "https://github.com/WalterMarikwa/Movies-ETL"
+    },
+    {
+        "id": 13,
+        "name": "Pewlett Hackard Analysis",
+        "img": "img/paul.jpg",
+        "skill": "PostgreSQL, pgAdmin 4.",
+        "btn": "https://github.com/WalterMarikwa/Pewlett-Hackard-Analysis"
+    },
+    {
+        "id": 14,
+        "name": "World Weather Analysis",
+        "img": "img/weather.jpg",
+        "skill": "Matplotlib 3.0, Python 3.7, Visual Studio Code 1.50.0, Anaconda 4.0, Jupyter Notebook 6.0, Pandas.",
+        "btn": "https://github.com/WalterMarikwa/World_Weather_Analysis"
+    },
+    {
+        "id": 15,
+        "name": "PyBer Analysis",
+        "img": "img/paul.jpg",
+        "skill": "Jupyter Notebook, Python 3.7.10.",
+        "btn": "https://github.com/WalterMarikwa/PyBer_Analysis"
+    },
+    {
+        "id": 16,
+        "name": "School District Analysis",
+        "img": "img/school.jpg",
+        "skill": "Python 3.7, Anaconda, Jupyter Notebook.",
+        "btn": "https://github.com/WalterMarikwa/School_District_Analysis"
+    },
+    {
+        "id": 17,
+        "name": "Election Analysis",
+        "img": "img/vote.jpg",
+        "skill": "Python 3.7.6, Visual Studio Code.",
+        "btn": "https://github.com/WalterMarikwa/Election_Analysis"
+    },
+    {
+        "id": 18,
+        "name": "Stock Analysis",
+        "img": "img/stock.jpg",
+        "skill": "VBA Programming, Excel.",
+        "btn": "https://github.com/WalterMarikwa/stock-analysis"
+    }
+]
