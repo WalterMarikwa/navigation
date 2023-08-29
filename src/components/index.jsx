@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import "./styles.css";
+import "./styles/styles.css";
 
 export default function Hero() {
     const navStyle = {
@@ -14,8 +14,8 @@ export default function Hero() {
         <h2>Data Engineer</h2>
         <div className="wrapper">
           <div className="icon website">
-            <div className="tooltip">Website</div>
-            <Link style={navStyle} to="/"> 
+            <div className="tooltip">Projects</div>
+            <Link style={navStyle} to="/projects"> 
             <span> <i className="fa-solid fa-globe" /></span>
             </Link>
           </div>
