@@ -20,10 +20,10 @@ export default function Hero() {
             </Link>
           </div>
           <div className="icon twitter">
-            <div className="tooltip">Twitter</div>
-            <Link style={navStyle} to="https://twitter.com/3KINGWALTER">
+            <div className="tooltip">Resume</div>
+            <Link style={navStyle} to="https://drive.google.com/file/d/1sW5Ng0fUJRqI3bt9t8h9YPEMHTbOStvw/view">
             <span>
-              <i className="fab fa-twitter" />
+            <i className="fa-regular fa-file" />
             </span>
             </Link>
           </div>
