@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/navigation/static/css/main.ac9eb0c3.css",
-    "main.js": "/navigation/static/js/main.6014b31a.js",
-    "static/js/787.6ef5e871.chunk.js": "/navigation/static/js/787.6ef5e871.chunk.js",
-    "static/media/background.jpg": "/navigation/static/media/background.26390d9f9ec934a1cbf4.jpg",
-    "index.html": "/navigation/index.html",
-    "main.ac9eb0c3.css.map": "/navigation/static/css/main.ac9eb0c3.css.map",
-    "main.6014b31a.js.map": "/navigation/static/js/main.6014b31a.js.map",
-    "787.6ef5e871.chunk.js.map": "/navigation/static/js/787.6ef5e871.chunk.js.map"
+    "main.css": "/WalterMarikwa/navigation/static/css/main.5bbc9a40.css",
+    "main.js": "/WalterMarikwa/navigation/static/js/main.05d93098.js",
+    "static/js/787.6ef5e871.chunk.js": "/WalterMarikwa/navigation/static/js/787.6ef5e871.chunk.js",
+    "static/media/background.jpg": "/WalterMarikwa/navigation/static/media/background.26390d9f9ec934a1cbf4.jpg",
+    "index.html": "/WalterMarikwa/navigation/index.html",
+    "main.5bbc9a40.css.map": "/WalterMarikwa/navigation/static/css/main.5bbc9a40.css.map",
+    "main.05d93098.js.map": "/WalterMarikwa/navigation/static/js/main.05d93098.js.map",
+    "787.6ef5e871.chunk.js.map": "/WalterMarikwa/navigation/static/js/787.6ef5e871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac9eb0c3.css",
-    "static/js/main.6014b31a.js"
+    "static/css/main.5bbc9a40.css",
+    "static/js/main.05d93098.js"
   ]
 }
