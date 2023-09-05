@@ -41,7 +41,7 @@ function Cards() {
                         return (
                             <article>
                                 <img src={postData.img} alt="project thumbnail" />
-                                <div classname="prodText" key={index}>
+                                <div className="prodText" key={index}>
                                     <div className="proHeader">
                                         <h2>{postData.name}</h2>
                                         <p className="proMsg">{postData.skill}</p>
