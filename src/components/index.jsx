@@ -37,7 +37,7 @@ export default function Hero() {
           </div>
           <div className="icon github">
             <div className="tooltip">Github</div>
-            <Link style={navStyle} to="https://github.com/WalterMarikwa">
+            <Link target="_blank" style={navStyle} to="https://github.com/WalterMarikwa">
             <span>
               <i className="fab fa-github" />
             </span>
@@ -45,7 +45,7 @@ export default function Hero() {
           </div>
           <div className="icon linkedin">
             <div className="tooltip">LinkedIN</div>
-            <Link style={navStyle} to="https://www.linkedin.com/in/walter-m-03b137175/">
+            <Link target="_blank" style={navStyle} to="https://www.linkedin.com/in/walter-m-03b137175/">
             <span>
               <i className="fab fa-linkedin" />
             </span>
